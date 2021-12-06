@@ -1,0 +1,14 @@
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\bin\Debug\netcoreapp3.1\Math.Klassen.exe
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\bin\Debug\netcoreapp3.1\Math.Klassen.deps.json
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\bin\Debug\netcoreapp3.1\Math.Klassen.runtimeconfig.json
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\bin\Debug\netcoreapp3.1\Math.Klassen.runtimeconfig.dev.json
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\bin\Debug\netcoreapp3.1\Math.Klassen.dll
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\bin\Debug\netcoreapp3.1\Math.Klassen.pdb
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\obj\Debug\netcoreapp3.1\Math.Klassen.csproj.AssemblyReference.cache
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\obj\Debug\netcoreapp3.1\Math.Klassen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\obj\Debug\netcoreapp3.1\Math.Klassen.AssemblyInfoInputs.cache
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\obj\Debug\netcoreapp3.1\Math.Klassen.AssemblyInfo.cs
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\obj\Debug\netcoreapp3.1\Math.Klassen.csproj.CoreCompileInputs.cache
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\obj\Debug\netcoreapp3.1\Math.Klassen.dll
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\obj\Debug\netcoreapp3.1\Math.Klassen.pdb
+C:\Users\alain\source\repos\Math.Klassen\Math.Klassen\obj\Debug\netcoreapp3.1\Math.Klassen.genruntimeconfig.cache
